@@ -1,0 +1,16 @@
+c:\users\vishakhsahni\documents\visual studio 2017\Projects\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+c:\users\vishakhsahni\documents\visual studio 2017\Projects\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+c:\users\vishakhsahni\documents\visual studio 2017\Projects\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+c:\users\vishakhsahni\documents\visual studio 2017\Projects\ConsoleApp15\ConsoleApp15\bin\Debug\LinqToTwitter.AspNet.dll
+c:\users\vishakhsahni\documents\visual studio 2017\Projects\ConsoleApp15\ConsoleApp15\bin\Debug\LinqToTwitter.net.dll
+c:\users\vishakhsahni\documents\visual studio 2017\Projects\ConsoleApp15\ConsoleApp15\bin\Debug\System.Reactive.Core.dll
+c:\users\vishakhsahni\documents\visual studio 2017\Projects\ConsoleApp15\ConsoleApp15\bin\Debug\System.Reactive.Interfaces.dll
+c:\users\vishakhsahni\documents\visual studio 2017\Projects\ConsoleApp15\ConsoleApp15\bin\Debug\System.Reactive.Linq.dll
+c:\users\vishakhsahni\documents\visual studio 2017\Projects\ConsoleApp15\ConsoleApp15\bin\Debug\System.Reactive.PlatformServices.dll
+c:\users\vishakhsahni\documents\visual studio 2017\Projects\ConsoleApp15\ConsoleApp15\bin\Debug\System.Reactive.Core.xml
+c:\users\vishakhsahni\documents\visual studio 2017\Projects\ConsoleApp15\ConsoleApp15\bin\Debug\System.Reactive.Interfaces.xml
+c:\users\vishakhsahni\documents\visual studio 2017\Projects\ConsoleApp15\ConsoleApp15\bin\Debug\System.Reactive.Linq.xml
+c:\users\vishakhsahni\documents\visual studio 2017\Projects\ConsoleApp15\ConsoleApp15\bin\Debug\System.Reactive.PlatformServices.xml
+c:\users\vishakhsahni\documents\visual studio 2017\Projects\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csprojResolveAssemblyReference.cache
+c:\users\vishakhsahni\documents\visual studio 2017\Projects\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+c:\users\vishakhsahni\documents\visual studio 2017\Projects\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
